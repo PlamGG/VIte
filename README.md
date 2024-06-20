@@ -17,4 +17,4 @@
 ![image](https://github.com/PlamGG/VIte/assets/145746972/03816098-866d-49f7-935a-018ed8586315)
 
 
-![Uploading image.png…]()
+![image](https://github.com/PlamGG/VIte/assets/145746972/e582e2cc-980d-46a6-aab6-03927bff8346)
