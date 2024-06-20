@@ -2,6 +2,7 @@
   "name": "my-react-app",
   "private": true,
   "version": "0.0.0",
+    "homepage": "https://myusername.github.io/my-app",
   "type": "module",
   "scripts": {
     "dev": "vite",
